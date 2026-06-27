@@ -69,16 +69,6 @@ Swiggy-Sales-Analysis-Excel/
 | 📁 Screenshots | Contains the dashboard preview image. |
 | 📄 README.md | Project Information overview, tools used, Key Insights |
 ---
-## 🎓 Skills Demonstrated
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 📗 Microsoft Excel
-- 📋 Pivot Tables
-- 📉 Pivot Charts
-- 🎛️ Slicers
-- 📌 KPI Reporting
-- 📊 Dashboard Design
-- 💡 Business Insights
 ---
 ## 👨‍💻 Author
 **Avaneendra Swayampakala**
